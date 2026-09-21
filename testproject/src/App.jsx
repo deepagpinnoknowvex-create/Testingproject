@@ -11,6 +11,7 @@ function App() {
    <>
    <div>
     <h1>WEb devlopment</h1>
+    <button onClick={alert("hello i am from innoknwovex")}>Cilck me button</button>
    </div>
    </>
   )
